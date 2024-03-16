@@ -3,7 +3,7 @@
 
 ![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
 
-Spotify Clone
+## Spotify Clone
 
 ## 🔨 Funcionalidades do projeto
 
